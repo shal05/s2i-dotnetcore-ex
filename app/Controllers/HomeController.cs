@@ -6,6 +6,7 @@ namespace app.Controllers;
 
 public class HomeController : Controller
 {
+/*this is testing comment*/
     private readonly ILogger<HomeController> _logger;
 
     public HomeController(ILogger<HomeController> logger)
